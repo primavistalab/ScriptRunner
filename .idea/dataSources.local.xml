@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="PARTPOST.IB" uuid="3c02f225-2e09-4967-a25f-2f14a8f935e2">
+      <database-info product="Firebird 3.0" version="WI-V3.0.1.32609" jdbc-version="4.2" driver-name="Jaybird JCA/JDBC driver" driver-version="3.0" family="UNKNOWN" exact-version="3.0">
+        <extra-name-characters>$</extra-name-characters>
+        <identifier-quote-string>&quot;</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="upper" quoted-identifiers="exact" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>sysdba</user-name>
+      <introspection-schemas>@:@</introspection-schemas>
+    </data-source>
+  </component>
+</project>

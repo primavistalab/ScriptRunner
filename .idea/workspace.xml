@@ -1,0 +1,1690 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f7247006-bf6f-4f1d-8f9d-d92c7bd488a2" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/.idea/httpRequests/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="PARTPOST.IB" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="PARTPOST.IB" type="feb32156:DbDataSourceImpl" />
+        <item name="#1: database" type="b17ce870:GenericImplModel$Database" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="PARTPOST.IB" type="feb32156:DbDataSourceImpl" />
+        <item name="#1: database" type="b17ce870:GenericImplModel$Database" />
+        <item name="#1: schema" type="94a96539:GenericImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1801729942">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="ACCEPTTYPE" value="1" />
+          <entry key="ACT_NUM_OF_DIFF" value="1" />
+          <entry key="ADDRESSTYPE" value="1" />
+          <entry key="ALLOWED_ADDITIONAL_SERVICE" value="1" />
+          <entry key="ARTTYPE" value="2" />
+          <entry key="CALC_RATE2" value="1" />
+          <entry key="CALC_UVED_RATE_NPP" value="1" />
+          <entry key="DATABASE/3c02f225-2e09-4967-a25f-2f14a8f935e2" value="1" />
+          <entry key="V_RPO" value="1" />
+          <entry key="class" value="10" />
+          <entry key="iml" value="3" />
+          <entry key="java" value="47" />
+          <entry key="sql" value="5" />
+          <entry key="xml" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="10" />
+          <entry key="Database Element" value="7" />
+          <entry key="IDEA_MODULE" value="3" />
+          <entry key="JAVA" value="45" />
+          <entry key="SQL" value="3" />
+          <entry key="Scratch" value="6" />
+          <entry key="UML" value="1" />
+          <entry key="XML" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="class" value="1" />
+          <entry key="java" value="4094" />
+          <entry key="sql" value="21" />
+          <entry key="xml" value="48" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CLASS" value="1" />
+          <entry key="JAVA" value="4094" />
+          <entry key="Scratch" value="21" />
+          <entry key="XML" value="48" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-1379392629">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.30" value="1" />
+          <entry key="project.open.time.38" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="1121" />
+          <entry key="xml" value="34" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1121" />
+          <entry key="XML" value="34" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="3" />
+          <entry key="iml" value="2" />
+          <entry key="java" value="17" />
+          <entry key="log" value="1" />
+          <entry key="xml" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="3" />
+          <entry key="IDEA_MODULE" value="2" />
+          <entry key="JAVA" value="17" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="XML" value="3" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="120249884">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="JScriptRunner" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ru.primavistalab/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="538">
+              <caret line="85" selection-start-line="85" selection-end-line="85" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ru.primavistalab/log/SessionLog.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="627">
+              <caret line="35" selection-start-line="35" selection-end-line="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_191/src.zip!/java/nio/file/LinkOption.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="41" column="18" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ru.primavistalab/callback/IBEScriptWrapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="12" column="65" selection-start-line="12" selection-start-column="65" selection-end-line="12" selection-end-column="65" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ru.primavistalab/Globals.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="30" column="19" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ru.primavistalab/settings/Settings.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2014">
+              <caret line="144" column="16" selection-start-line="144" selection-start-column="16" selection-end-line="144" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#4168#4169#0" expanded="true" />
+                <element signature="e#4187#4188#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JScriptRunner.iml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_191/src.zip!/java/lang/Object.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="741">
+              <caret line="62" column="25" selection-start-line="62" selection-start-column="25" selection-end-line="62" selection-end-column="25" />
+              <folding>
+                <element signature="e#10065#10066#0" expanded="true" />
+                <element signature="e#10148#10149#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ru.primavistalab/callback/ScriptAfterExecCallback.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Arquillian JUnit Test Class" />
+        <option value="Singleton" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>.get(</find>
+      <find>loadLibrary</find>
+      <find>PrintWriter</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>.put(</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru.primavistalab/SimpleFrame.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ru/primavistalab/MainTest.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/3c02f225-2e09-4967-a25f-2f14a8f935e2/console.sql" />
+        <option value="$PROJECT_DIR$/src/main/java/ru.primavistalab/DBConnector.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru.primavistalab/IBEScriptWrapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru.primavistalab/Settings.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru.primavistalab/callback/ScriptErrorCallbackCallback.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru.primavistalab/callback/ScriptBeforeExecCallback.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru.primavistalab/callback/BaseCallback.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru.primavistalab/callback/ScriptIBEBlockProgress.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru.primavistalab/callback/ConnectErrorCallback.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru.primavistalab/log/SessionLog.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru.primavistalab/callback/ScriptAfterExecCallback.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru.primavistalab/callback/ScriptErrorCallback.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/ru.primavistalab/db/DBConnector.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru.primavistalab/Globals.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru.primavistalab/callback/IBEScriptWrapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru.primavistalab/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru.primavistalab/settings/Settings.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="FBScriptRunner" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="FBScriptRunner" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="196" />
+    <option name="y" value="10" />
+    <option name="width" value="1400" />
+    <option name="height" value="979" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Maven</id>
+          </State>
+          <State>
+            <id>Spelling</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>SpellCheckingInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
+      <flattenPackages Scope="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="JScriptRunner" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="FBScriptRunner" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="JScriptRunner" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="FBScriptRunner" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JScriptRunner" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JScriptRunner" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projects" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JScriptRunner" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projects" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JScriptRunner" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projects" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JScriptRunner" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projects" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ru.primavistalab" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JScriptRunner" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projects" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ru.primavistalab" type="462c0819:PsiDirectoryNode" />
+              <item name="callback" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JScriptRunner" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projects" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ru.primavistalab" type="462c0819:PsiDirectoryNode" />
+              <item name="db" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JScriptRunner" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projects" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ru.primavistalab" type="462c0819:PsiDirectoryNode" />
+              <item name="log" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JScriptRunner" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projects" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ru.primavistalab" type="462c0819:PsiDirectoryNode" />
+              <item name="settings" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JScriptRunner" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projects" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JScriptRunner" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projects" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="logs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JScriptRunner" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projects" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JScriptRunner" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="JScriptRunner" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql&#10;java.sql.Driver" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543294698782" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="database.data.extractors.current.id" value="Comma-separated (CSV)_id" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.22274436" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="ru.primavistalab" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://tariff.russianpost.ru" />
+          <option name="urlPath" value="/tariff/v1/calculate" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="service" />
+                <option name="value" value="28,65" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="closed" />
+                <option name="value" value="0" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="sumnp" />
+                <option name="value" value="0" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="sumoc" />
+                <option name="value" value="0" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="weight" />
+                <option name="value" value="1000" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="object" />
+                <option name="value" value="47030" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="to" />
+                <option name="value" value="101000" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="dir" />
+                <option name="value" value="0" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="from" />
+                <option name="value" value="690014" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="date" />
+                <option name="value" value="20181022" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="errorcode" />
+                <option name="value" value="0" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="service" />
+                <option name="value" value="28,65" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="closed" />
+                <option name="value" value="0" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="sumnp" />
+                <option name="value" value="0" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="sumoc" />
+                <option name="value" value="0" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="weight" />
+                <option name="value" value="1000" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="object" />
+                <option name="value" value="47030" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="to" />
+                <option name="value" value="101000" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="dir" />
+                <option name="value" value="0" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="from" />
+                <option name="value" value="690014" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="date" />
+                <option name="value" value="20181022" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="errorcode" />
+                <option name="value" value="0" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://tariff.russianpost.ru" />
+          <option name="urlPath" value="/tariff/v1/calculate" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="service" />
+                <option name="value" value="28,65" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="closed" />
+                <option name="value" value="0" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="sumnp" />
+                <option name="value" value="0" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="sumoc" />
+                <option name="value" value="0" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="weight" />
+                <option name="value" value="1000" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="object" />
+                <option name="value" value="47030" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="to" />
+                <option name="value" value="101000" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="dir" />
+                <option name="value" value="0" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="from" />
+                <option name="value" value="690014" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="date" />
+                <option name="value" value="20181022" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="errorcode" />
+                <option name="value" value="0" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://tariff.russianpost.ru/tariff/v1/calculate?json&amp;service=28,65&amp;closed=0&amp;sumnp=0&amp;sumoc=0&amp;weight=1000&amp;object=47030&amp;to=101000&amp;dir=0&amp;from=690014&amp;date=20181022&amp;errorcode=0 " />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="Application" factoryName="Application" singleton="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8_x86" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="ru.primavistalab.Main" />
+      <module name="FBScriptRunner" />
+      <option name="PROGRAM_PARAMETERS" value="c:\1.sql c:\2.sql" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="pv.Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="JScriptRunner" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="JScriptRunner" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f7247006-bf6f-4f1d-8f9d-d92c7bd488a2" name="Default Changelist" comment="" />
+      <created>1542534810513</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542534810513</updated>
+      <workItem from="1542534812899" duration="42080000" />
+      <workItem from="1542876881054" duration="7776000" />
+      <workItem from="1542965607739" duration="8751000" />
+      <workItem from="1543294832337" duration="58000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="58665000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1155" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49860334" visible="true" weight="0.15831557" />
+      <window_info id="Structure" order="1" sideWeight="0.50139666" side_tool="true" weight="0.15511727" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" sideWeight="0.50139666" side_tool="true" weight="0.15511727" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Image Layers" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3292683" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.20547946" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4989339" weight="0.32778865" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3292683" />
+      <window_info anchor="bottom" id="REST Client" order="7" weight="0.3292683" />
+      <window_info anchor="bottom" id="Database Console" order="8" weight="0.3292683" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49946696" weight="0.3292683" />
+      <window_info anchor="bottom" id="Inspection Results" order="10" weight="0.32876712" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5021322" side_tool="true" weight="0.25244617" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.4978678" weight="0.25244617" />
+      <window_info anchor="bottom" id="Database Changes" order="13" weight="0.3292683" />
+      <window_info anchor="bottom" id="Version Control" order="14" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" visible="true" weight="0.16684435" />
+      <window_info anchor="right" id="Database" order="6" weight="0.18070363" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/LinkedHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="443" selection-start-line="443" selection-end-line="443" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/ini4j/ini4j/0.5.4/ini4j-0.5.4-sources.jar!/org/ini4j/BasicMultiMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="132" selection-start-line="132" selection-end-line="132" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/ini4j/ini4j/0.5.4/ini4j-0.5.4-sources.jar!/org/ini4j/BasicOptionMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="184" selection-start-line="184" selection-end-line="184" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/ini4j/ini4j/0.5.4/ini4j-0.5.4-sources.jar!/org/ini4j/Wini.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/ini4j/ini4j/0.5.4/ini4j-0.5.4-sources.jar!/org/ini4j/Ini.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="138" column="12" selection-start-line="138" selection-start-column="12" selection-end-line="138" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://3c02f225-2e09-4967-a25f-2f14a8f935e2/database/&amp;empty;@#1/schema/&amp;empty;@#1/table/ACCEPTTYPE">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://3c02f225-2e09-4967-a25f-2f14a8f935e2/database/&amp;empty;@#1/schema/&amp;empty;@#1/view/V_RPO">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://3c02f225-2e09-4967-a25f-2f14a8f935e2/database/&amp;empty;@#1/schema/&amp;empty;@#1/routine/CALC_RATE2@()">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://3c02f225-2e09-4967-a25f-2f14a8f935e2/database/&amp;empty;@#1/schema/&amp;empty;@#1/table/ALLOWED_ADDITIONAL_SERVICE.sql" />
+    <entry file="das://3c02f225-2e09-4967-a25f-2f14a8f935e2/database/&amp;empty;@#1/schema/&amp;empty;@#1/table/ALLOWED_ADDITIONAL_SERVICE" />
+    <entry file="das://3c02f225-2e09-4967-a25f-2f14a8f935e2/database/&amp;empty;@#1/schema/&amp;empty;@#1/table/ARTTYPE">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://3c02f225-2e09-4967-a25f-2f14a8f935e2/database/&amp;empty;@#1/schema/&amp;empty;@#1/table/ACT_NUM_OF_DIFF">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://3c02f225-2e09-4967-a25f-2f14a8f935e2/database/&amp;empty;@#1/schema/&amp;empty;@#1/table/ADDRESSTYPE">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/3c02f225-2e09-4967-a25f-2f14a8f935e2/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="23" lean-forward="true" selection-start-column="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://3c02f225-2e09-4967-a25f-2f14a8f935e2/database/&amp;empty;@#1/schema/&amp;empty;@#1/routine/CALC_UVED_RATE_NPP@()">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="uml://DATABASE/3c02f225-2e09-4967-a25f-2f14a8f935e2">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>DATABASE</ID>
+          <OriginalElement>3c02f225-2e09-4967-a25f-2f14a8f935e2</OriginalElement>
+          <nodes>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:MARK_CAITS</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:ALLOWED_REST_TYPES</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:REGION_ZONES_EMS</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:MR_MAILPLANS</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:DIRECTCTG</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:SPISKI</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:MR_SORTTYPE</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.VIEW:ZDEL_Z_VENDOR_REQUEST</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:ZDEL_Z_OPERSTATUS</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:DIAPAZON</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:LIMIT_PAYTYPE_EX</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:LEGAL_ENTITY</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:CONTENTS</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:SMS_SERVICE_RPO</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.VIEW:ZDEL_Z_ZAK_WORKSTAT_JOIN</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:RPOTRANSTYPE</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:ZONE_CITY_TEMP_EMS</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:INDEXTBL_ART</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:QUANTITY_RANGE</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:FORM103_TRANSPORT</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:PARAM_FORM</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:MON$RECORD_STATS</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:MR_POCKETTYPEPARAMS</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.VIEW:V_RPO</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.VIEW:ZDEL_Z_ZAK_WORKSTAT</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:LIMIT_INDEX_ARTTYPE</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:DM_TYPE</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:BAG_TYPE</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:ZDEL_Z_ITEMS</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:ZDEL_MR_SECTORTYPES</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:RDB$REF_CONSTRAINTS</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:INVOICE_FORM16_LIST</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:ERR_BARCODE</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:ZDEL_Z_FREE_DOC</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:ZDEL_Z_ARTGROUPATTRIBUTE</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:ZDEL_Z_SEND</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:EVENT_ERR_TYPE</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:FIRMS</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:RDB$LOG_FILES</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:CITY_ZONES_POST</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:ZDEL_Z_REST</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:ERROR_CONTROL_TYPE</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:MR_MAILPLANPUNKTS_STATUS</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:INNERCITY_ZONES</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:PAYTYPE_EX</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:F16_PARAM_FORM</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:ADDR_TAB</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:WEIGH_SERVICE_DM</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:SEC$USER_ATTRIBUTES</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:QUALITY_LEVEL</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:STATUSPARCEL</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:RDB$FIELD_DIMENSIONS</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:POSTMARKCTG</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:RDB$ROLES</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:ARTTYPE_PREFIX</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:RTM_CURRENCIES</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:RETNREASON</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:ERR_PARC</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:ZDEL_Z_OBJLINKS</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:REST_SAVE_LOG</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:OTKLONENIE_MASS</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:SMSTARIF</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:ZDEL_Z_COMB_VEC</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:SEC$GLOBAL_AUTH_MAPPING</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:POST103</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:ZDEL_Z_ARTICLES</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:ZDEL_Z_PRITEM</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:WEIGHTTARIFS</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:DEPOSTEMP</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:ZDEL_MAILOPERATIONS</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:ARTTYPE_LIST_TRANSTYPE</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:FACTORY_ZONE</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:MR_POSTPOCKET</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:CONTROL_COUNT_SELECT</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.VIEW:RPO_RATES</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:ARTTYPECTG</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:WEIGHTTARIFS_BUSINESS_COUR</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:ARTTYPE_CONTROL_MASS</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:ARTGROUP</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:MR_POCKETSOSTP</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:LIMIT_ADRES_ARTTYPE</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:ZDEL_Z_PAR_TOVAR</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:CUSTOMS_TYPE_DOCS</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:PUNKTTBL</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:COMBI_ZONE1_INDEX</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:ZDEL_Z_VENDORS</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:ZDEL_Z_COMPOSIVETYPE</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:MR_MAILPLANPUNKTS</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:TARIFS_TPO</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:ZDEL_Z_PS_DELTA</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.VIEW:VIEW_CONSTRAINTS</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:FORM_103_SAMPLE</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:WEIGHTTARIFS_DM</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:MR_POSTUSERS</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:ZDEL_MR_POSTGROUPGRANTS</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:ZONE_TO_ZONE_OPT</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:COUNTRY_ZONES_EMS_EXCEPTIONS</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:ERRORTYPE_SAMPLE</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:ZDEL_Z_SKID_LINKS</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:REP_REGIM</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:RDB$DATABASE</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:WEIGHTTARIFS_EMSRT</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:RDB$TRIGGER_MESSAGES</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:ZDEL_Z_ARTLINKCLASSIF</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:ZDEL_MR_TEST</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:REGION_TARIFS_EMS</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:RDB$TYPES</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:MR_PV</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:ZDEL_BAGOPER</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:ERRORTYPE</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:INTERTARIFS</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:CITY_ZONES_TARIF</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:RDB$BACKUP_HISTORY</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:ZDEL_GF_RELAT</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:RANGE</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:ADMSTAFF</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:ZDEL_Z_PR</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:TARIFS_TPO_LESS_31</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:PUNKTTYPES</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:FIRMS_INDEX_TYPE</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:REMOTE_INDEX</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:MON$TABLE_STATS</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:MAILRANKCTG</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:PERSON_TYPE</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.VIEW:ZDEL_Z_GET_ADRESAT_ZAKSUM</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:SENDTYPE</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:TEST</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:ZDEL_Z_VENDORS_TYPEVENDORS</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.VIEW:VIEW_RPO_F16MONITOR</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:RDB$INDEX_SEGMENTS</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:ACCEPTTYPE</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:RDB$SECURITY_CLASSES</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:MARKSMAIL</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:COUNTRY_SPZ_CONSTRAINTS</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:REGIONZONE</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:ZDEL_Z_REZERV</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:ZDEL_Z_OBJECTS</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:MR_USERGROUPS</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:MR_POCKETMAILTYPECTGDOC</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:ZDEL_MR_PLANOBJ</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:ZDEL_Z_ARTCLASSIF</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.VIEW:VIEW_REPORT_ACT_MRASC</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:TRANSTYPE</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:SPISKI_SAMPLE</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:STATUSSPISKA_COMBO</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:DM_COUNT_LIMIT</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:NOMENCLATURE_1C</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:IMP_RPO</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:RDB$DEPENDENCIES</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:ZDEL_BAGINTERTYPE</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:ARTTYPE_LIST_SAMPLE</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:CITYID_BUSINESS_COUR</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:MR_PARAMS</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:TARIFEMS</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:BOOK_TNVD_LIMIT</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:MON$ATTACHMENTS</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:TARIFZONESEMS</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:F103_SYSTEM</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:KONTAGENTS</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:ARTTYPE</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:CITYID_BUSINESS_COUR_TMP</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:INTERNATIONAL_TARIFS_EMS</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:CONSTRAINTS</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:CITY_TARIFS_EMS</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:ZDEL_Z_ZAG_SEND</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:ZDEL_Z_PAY_TYPES</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:LEGALMAIL</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:ZDEL_MR_MODEDOCS</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:ZDEL_Z_SKIDKI</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:STATUS_F16</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:MAILDIRECT</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:RDB$CHECK_CONSTRAINTS</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:POSTMARKCMP</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:MR_GROUPINGRANG</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:TARIFZONES</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:RDB$FIELDS</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:EXP_RPO_OPS_PO</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:ZDEL_BAGCTG</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:MAILRANK</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:RDB$GENERATORS</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:TPO_CHECK</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:DEPARCHIVE</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:CONTEINER</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:WEIGHTTARIFS_FIRSTCLASS</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:MR_TRIPS</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:PAYTYPE</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:ZDEL_Z_OPERATION</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:DEPOSREASN</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:POSTMARK</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:STATUSSPISKA_LINK</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:PRINT_SERVICE_TARIF</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:RDB$PAGES</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:AGREGATOR_SENDERS</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:ARTKATEG</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:POSTTARIF</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:ZDEL_FORM_103_TMP</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:ZDEL_Z_REFLINK_TYPES</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:MR_DOC</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:MR_POSTPOCKETTYPE</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:OPTIMAL_WEIGHTTARIFS_30R</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:FORM_103</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:RANGE_EI</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:SEC$DB_CREATORS</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:ZDEL_Z_SEND_ITEMS</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:PAYTYPE_FOR_ARTTYPE</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:MON$IO_STATS</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:RDB$TRIGGERS</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:BOOK_TNVD_CODE</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:RPOARTTYPE</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:RELOADTARIF</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:SPRCONSTRAINTS</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:RPO_BACK</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:TARIFZONESEMSOPTIMAL</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:CVPP_CITY</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:ZDEL_Z_ADR_FLAGS</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:ZDEL_Z_ANKETA</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:ZDEL_Z_INF_SOURCE</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:ZDEL_Z_ZAG_RETURN</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:COUNTRY_ZONES_EMS</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:BAGTYPE</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:RDB$DB_CREATORS</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:ADMINTYPES</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:MASSLIMITATION</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:ZONE_REGION_TEMP_EMS</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:INTERSPECTARIFS</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:EVENT_LIST</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:ZDEL_BAGDIRECT</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:EXP_RPO</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:ZDEL_Z_SEND_STATUS</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:RDB$RELATION_CONSTRAINTS</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:RDB$PROCEDURES</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:CITY_ZONES_EMS</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:ZONE_TARIFS_TEMP_EMS</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:RDB$USER_PRIVILEGES</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:TEMP</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:ZDEL_MR_MODES</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:ACT_NUM_OF_DIFF</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:ERR_PARC_REST</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:MAILOTMETKI</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.VIEW:VIEW_STATUS_F16</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:INNERCITY_TARIF</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:ALLOWED_POSTMARK_TYPES</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:ERR_PARC_SAMPLE</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:CUSTOMS_DOCS</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:PRINT_ON_SERVIVE</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:MAILDIRECT_ZONE_TAB</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:VUBORKA</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:REST_RTM_OBJECT</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:MR_POSTOFFICESTRUCT</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:MR_ROUTES</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:MR_POCKET_NEXTVAL</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:RDB$VIEW_RELATIONS</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:MON$CALL_STACK</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:MR_SORTFLAGS</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:ZDEL_Z_COMPOSIVEARTICLES</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:WEIGHTTARIFS_TRACK</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:HISTORY_F103</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:FIRSTCLASS_TARIF_PAIRS</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:MAILTYPEPREFCTG</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:RDB$FILES</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:WEIGHTTARIFS_TRACK_INNER_REGION</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:ZDEL_Z_ZAG_ZAKAZ</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:ZDEL_Z_PRCOMMENT</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:AGREGATOR_TYPE</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:EXPDATATYPE</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:FORM16_SCAN_LIST</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:MON$DATABASE</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:EMSCENTER</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:CVPP_KURIER</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:ZDEL_GF_COLLOQUIALISM</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:ZDEL_Z_LINK_TYPES</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:EMS_CITY_PUNKT_ZONE</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:ALLOWED_FORM16_SKAN_TYPES</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:FORM16_SCAN_RPO</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:ZDEL_MR_ADDRSHORTENINGS</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:ARTTYPECTG_RANK</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:OPERTYPE</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:REGIONZONEEMS</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:ZDEL_Z_RET_ITEMS</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:XML_SEND_SAMPLE</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:SMS_NOTICE_RPO</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:RDB$PACKAGES</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:ARTKATEG_VES</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:MON$STATEMENTS</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:ZDEL_Z_OBJREF_LINKS</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:STATUSSPISKA</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:MON$CONTEXT_VARIABLES</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:INTERPACKTARIFS</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:AKT_FORM16_LIST</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:NONDELIV</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:FLD_SEMANT</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:ALLOWED_INDEX_ARTTYPE</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:COUNTRY_TARIFS_EMS</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:RPO</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:RDB$FUNCTION_ARGUMENTS</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:INDEXTBL</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:TRANSCTG</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:MR_HISTORY</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:RDB$FILTERS</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:TARIFS_TPO_OVER_31</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:RDB$AUTH_MAPPING</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:EMS_TYPE_PUNKT</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:ZDEL_Z_TYPEVENDORS</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:ZDEL_Z_ZAG_REZERV</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:RDB$CHARACTER_SETS</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:Z_ADRESAT</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:RDB$TRANSACTIONS</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:RDB$RELATIONS</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:SEC$USERS</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:FIRMS_INDEX</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:FORM16_EXPORT_LIST</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:EMS_CITY_PUNKT</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:RPO_NNULL</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:ZDEL_Z_PAY</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:MR_POCKETSOSTI</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:SENDADD</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:CUSTOMS_DEC_TEMP</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:DEPTYPES</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:RDB$INDICES</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:RDB$COLLATIONS</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:ZDEL_Z_OBJECT_TYPES</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:MAININDEX</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:MON$MEMORY_USAGE</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:ZDEL_Z_FREE_ADR</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:ZDEL_Z_PAC</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:RANGE_STATE</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:DELVLIM</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:ISSUETYPE</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:MR_POSTGROUPS</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:ZDEL_Z_PACKING</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:MON$TRANSACTIONS</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:CUSTOMS_CURRENCY</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:ZDEL_Z_PAY_LINKS</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:ADDRESSTYPE</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:MR_POSTOFFICEOPERTYPES</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.VIEW:VIEW_RTM0030_RPO_TRANSACT</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:AGREGATOR_MAILTYPE_ENABLE</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.VIEW:VIEW_RPO_RATES</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:VERSION</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:ZDEL_Z_ARTICLEGROUPS</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:WEIGH_SERVICE_CODE</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:ZDEL_Z_COMBINATION</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:CITY_ZONES_POST_TEMP</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:RDB$RELATION_FIELDS</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:DM_DELIVERY_TYPE</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:CUSTOMS_PARAMS</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:ZDEL_GF_CONCEPT</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:OPTIMAL_WEIGHTTARIFS</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:RDB$FORMATS</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:TARIFZONES_EXT</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:RDB$FUNCTIONS</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:INDEXTO_ADRESS</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:ZDEL_Z_ART_STATUS</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:RDB$PROCEDURE_PARAMETERS</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.VIEW:VIEW_REPORT_DATAF103</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:EXP_RPO_SAMPLE</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:CUSTOMS_DEC</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:ZDEL_RETURNMAIL</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:AU_SETUP</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:ZDEL_Z_NSREASONS</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:WEIGHT_RANGE</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:CUSTOMS_SUM_TEMP</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:RDB$EXCEPTIONS</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:MAILTYPECTGMARK</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:EDITABLE_REST_TYPES</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.VIEW:V_ADDR_DATA</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.VIEW:ZDEL_POST_TERRA</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:FORM_103_BACK</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:OTMETKI</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:SMS_NOTICE</node>
+            <node x="" y="">3c02f225-2e09-4967-a25f-2f14a8f935e2.TABLE:EXP_TYPE_LIST</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.06153399608156157" x="7059.0" y="6881.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Key columns</Category>
+            <Category>Columns</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/Runnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="699">
+          <caret line="67" column="26" lean-forward="true" selection-start-line="67" selection-start-column="26" selection-end-line="67" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="1936" column="34" lean-forward="true" selection-start-line="1936" selection-start-column="34" selection-end-line="1936" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/sun/jna/jna/3.0.9/jna-3.0.9.jar!/com/sun/jna/Library.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-853">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/sun/jna/jna/3.0.9/jna-3.0.9.jar!/com/sun/jna/Native.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="129" column="15" selection-start-line="129" selection-start-column="15" selection-end-line="129" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru.primavistalab/callback/ScriptErrorCallbackCallback.java" />
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_191/jre/lib/rt.jar!/sun/reflect/NativeMethodAccessorImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_191/jre/lib/rt.jar!/sun/reflect/DelegatingMethodAccessorImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_191/src.zip!/java/lang/reflect/Method.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="497" selection-start-line="497" selection-end-line="497" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/sun/jna/jna/3.0.9/jna-3.0.9.jar!/com/sun/jna/CallbackReference.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="339" selection-start-line="339" selection-end-line="339" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru.primavistalab/log/SystemLog.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru.primavistalab/callback/BaseCallback.java" />
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_191/src.zip!/java/io/PrintWriter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="134" column="32" selection-start-line="134" selection-start-column="21" selection-end-line="134" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/com/sun/jna/jna/3.0.9/jna-3.0.9.jar!/com/sun/jna/AltCallingConvention.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/sun/jna/jna/3.0.9/jna-3.0.9.jar!/com/sun/jna/win32/StdCall.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="9" column="38" lean-forward="true" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/sun/jna/jna/3.0.9/jna-3.0.9.jar!/com/sun/jna/win32/StdCallLibrary.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="15" column="58" selection-start-line="15" selection-start-column="58" selection-end-line="15" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/ini4j/ini4j/0.5.4/ini4j-0.5.4-sources.jar!/org/ini4j/BasicProfile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="117" column="28" selection-start-line="117" selection-start-column="28" selection-end-line="117" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru.primavistalab/callback/ScriptIBEBlockProgress.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru.primavistalab/callback/ScriptBeforeExecCallback.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru.primavistalab/callback/ConnectErrorCallback.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru.primavistalab/callback/ScriptErrorCallback.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="64" selection-start-line="8" selection-start-column="64" selection-end-line="8" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/logs/jsr-2018-11-23 00-50-12.log" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru.primavistalab/db/DBConnector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="26" column="42" selection-start-line="26" selection-start-column="42" selection-end-line="26" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_191/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-31980">
+          <caret line="118" column="19" selection-start-line="118" selection-start-column="19" selection-end-line="118" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru.primavistalab/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="538">
+          <caret line="85" selection-start-line="85" selection-end-line="85" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_191/src.zip!/java/nio/file/Files.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="43681">
+          <caret line="2381" column="26" selection-start-line="2381" selection-start-column="26" selection-end-line="2381" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_191/src.zip!/java/nio/file/LinkOption.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="41" column="18" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru.primavistalab/callback/IBEScriptWrapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="12" column="65" selection-start-line="12" selection-start-column="65" selection-end-line="12" selection-end-column="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru.primavistalab/Globals.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="30" column="19" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru.primavistalab/settings/Settings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2014">
+          <caret line="144" column="16" selection-start-line="144" selection-start-column="16" selection-end-line="144" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#4168#4169#0" expanded="true" />
+            <element signature="e#4187#4188#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JScriptRunner.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_191/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="741">
+          <caret line="62" column="25" selection-start-line="62" selection-start-column="25" selection-end-line="62" selection-end-column="25" />
+          <folding>
+            <element signature="e#10065#10066#0" expanded="true" />
+            <element signature="e#10148#10149#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru.primavistalab/callback/ScriptAfterExecCallback.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru.primavistalab/log/SessionLog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.22274436" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Detection</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.22274436" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.22274436" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8_x86</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.22274436" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>projects</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.22274436" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Arquillian JUnit:Release</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.22274436" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="$PROJECT_DIR$" />
+  </component>
+</project>

@@ -1,0 +1,88 @@
+{
+  "version": "1.8.22.260",
+  "id": 47030,
+  "name": "Посылка 1 класса",
+  "typ": 47,
+  "cat": 3,
+  "dir": 0,
+  "from": 690014,
+  "to": 101000,
+  "weight": 1000,
+  "isservice": [
+    28,
+    65
+  ],
+  "date": 20181022,
+  "postoffice": [
+    {
+      "index": 690014,
+      "region": 1005,
+      "place": 1000000031441,
+      "parent": 690000,
+      "aviaport": [
+        "Владивосток"
+      ],
+      "aviazone": 63,
+      "cregion": 1,
+      "regid": 25
+    },
+    {
+      "index": 101000,
+      "region": 1000000001045,
+      "place": 1000000001045,
+      "parent": 127950,
+      "aviaport": [
+        "Москва"
+      ],
+      "aviazone": 1,
+      "cregion": 1,
+      "regid": 77
+    }
+  ],
+  "route": [
+    {
+      "trans": 2,
+      "transid": 2,
+      "from_postoffice": 690014,
+      "to_postoffice": 101000
+    }
+  ],
+  "typcatname": "Посылка 1 класса",
+  "trans": 3,
+  "transid": 2,
+  "transname": "авиа",
+  "tariff": [
+    {
+      "id": "177/177cd22",
+      "name": "Плата за пересылку посылки 1 класса",
+      "from": "ВЛАДИВОСТОК 14",
+      "fromi": 690014,
+      "to": "МОСКВА",
+      "toi": 101000,
+      "ground": {
+        "val": 35200,
+        "valnds": 41536
+      }
+    },
+    {
+      "id": "2401",
+      "name": "Курьерский сбор",
+      "isservice": 65,
+      "service": {
+        "val": 21000,
+        "valnds": 24780
+      }
+    }
+  ],
+  "ground": {
+    "val": 35200,
+    "valnds": 41536
+  },
+  "service": {
+    "val": 21000,
+    "valnds": 24780
+  },
+  "pay": 56200,
+  "paynds": 66316,
+  "date-first": 20181008
+}

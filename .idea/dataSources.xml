@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="PARTPOST.IB" uuid="3c02f225-2e09-4967-a25f-2f14a8f935e2">
+      <driver-ref>java.sql.Driver</driver-ref>
+      <synchronize>true</synchronize>
+      <configured-by-url>true</configured-by-url>
+      <jdbc-driver>org.firebirdsql.jdbc.FBDriver</jdbc-driver>
+      <jdbc-url>jdbc:firebirdsql://127.0.0.1:3050/c:\form_103\data\PARTPOST.IB</jdbc-url>
+      <driver-properties>
+        <property name="encoding" value="WIN1251" />
+      </driver-properties>
+    </data-source>
+  </component>
+</project>

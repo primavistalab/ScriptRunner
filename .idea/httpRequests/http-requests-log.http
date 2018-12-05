@@ -1,0 +1,24 @@
+GET http://tariff.russianpost.ru/tariff/v1/calculate?service=28,65&closed=0&sumnp=0&sumoc=0&weight=1000&object=47030&to=101000&dir=0&from=690014&date=20181022&errorcode=0&service=28,65&closed=0&sumnp=0&sumoc=0&weight=1000&object=47030&to=101000&dir=0&from=690014&date=20181022&errorcode=0
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-11-19T123935.200.html
+
+###
+
+POST http://tariff.russianpost.ru/tariff/v1/calculate?service=28,65&closed=0&sumnp=0&sumoc=0&weight=1000&object=47030&to=101000&dir=0&from=690014&date=20181022&errorcode=0
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-11-19T123919.400.html
+
+###
+
+GET http://tariff.russianpost.ru/tariff/v1/calculate?json&service=28,65&closed=0&sumnp=0&sumoc=0&weight=1000&object=47030&to=101000&dir=0&from=690014&date=20181022&errorcode=0%20
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-11-19T123832.200.json
+
+###
+
